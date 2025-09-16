@@ -45,7 +45,7 @@ if __name__ == "__main__":
 Клонировать репозиторий:
 
 git clone https://github.com/rionkin84-rgb/armstrong-numbers.git
-cd armstrong-numbers
+<p>cd armstrong-numbers
 
 
 Запустить программу:
