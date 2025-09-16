@@ -60,6 +60,6 @@ python armstrong_numbers.py
 <p>7-значные числа Армстронга: [1741725, 4210818, 9800817, 9926315].
 <p>8-значные числа Армстронга: [24678050, 24678051, 88593477].
 <p>9-значные числа Армстронга: [146511208, 472335975, 534494836, 912985153].
-
+<p><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/KvJsRhBp/image.png' border='0' alt='image'/></a>
 
 ✍️ Авторы: rionkin84-rgb(Ионкин Р.В), 3oza(Загарских А.А)
