@@ -14,11 +14,11 @@ def find_armstrong_numbers(n: int) -> list[int]:
     Находит все n-значные числа Армстронга.
     n > 1 и n < 10
     """
-    if n <= 1 or n >= 10:
+    if n <= 1 or n >= 10: 
         raise ValueError("n должно быть в диапазоне 2 <= n < 10")
 
-    start = 10**(n - 1)
-    end = 10**n
+    start = 10**(n - 1) # минимальное n-значное число
+    end = 10**n  # число сразу после максимального n-значного
     return [num for num in range(start, end) if is_armstrong(num)]
 
 
